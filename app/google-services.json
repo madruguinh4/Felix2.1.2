@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "734120672963",
+    "firebase_url": "https://felix-9cd3d.firebaseio.com",
+    "project_id": "felix-9cd3d",
+    "storage_bucket": "felix-9cd3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734120672963:android:3080290dd72b0587",
+        "android_client_info": {
+          "package_name": "tcc.usjt.felix212"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734120672963-vkfnb9esn5aqrg0mflje36vlbdp12j2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tcc.usjt.felix212",
+            "certificate_hash": "a6eabef2bcd51e066266659f973b82695af1b52c"
+          }
+        },
+        {
+          "client_id": "734120672963-upvlvqp3g2iu3ndrjthp28d7brvkl4qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS4AM3GPREOrfBsGkAf-lI5xHwXQhlx5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734120672963-upvlvqp3g2iu3ndrjthp28d7brvkl4qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
